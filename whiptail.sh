@@ -9,5 +9,5 @@ exitstatus=$?
 if [ $exitstatus = 0 ]; then
     echo "Your chosen option:" $OPTION
 else
-    echo "You chose Cancel."
+    echo "You chosen Cancel."
 fi
